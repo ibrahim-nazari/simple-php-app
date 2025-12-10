@@ -28,8 +28,6 @@ Below are some screenshots of the application.
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```
 
 │
