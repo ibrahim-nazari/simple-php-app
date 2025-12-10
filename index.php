@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Practicing php</title>
+    <title>Registration form</title>
 </head>
 <body>
     <?php  
- echo "hello php";
+ echo "hello test";
         
 
 ?>
